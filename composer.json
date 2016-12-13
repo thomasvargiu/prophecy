@@ -5,6 +5,7 @@
     "homepage":     "https://github.com/phpspec/prophecy",
     "type":         "library",
     "license":      "MIT",
+    "version": "1.6.3",
     "authors":      [
         {
             "name":      "Konstantin Kudryashov",
